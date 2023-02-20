@@ -35,7 +35,7 @@ Projeto Alura Books realizado requisição de API e aplicado métodos array para
 
 ## 🔖 Aplicação
 
-Você pode visualizar a aplicação do projeto através [DESSE LINK]()
+Você pode visualizar a aplicação do projeto através [DESSE LINK](https://alura-books-pied.vercel.app/)
 
 ## :memo: Licença
 
